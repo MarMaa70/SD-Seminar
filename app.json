@@ -34,5 +34,7 @@
   ],
   "contextSensitiveHelpUrl": "https://SDSeminar16.com/help/",
   "showMyCode": true,
-  "runtime": "5.0"
+  "runtime": "5.0",
+  "target": "OnPrem",
+  "features": ["TranslationFile"]
 }
