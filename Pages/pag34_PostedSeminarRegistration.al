@@ -184,7 +184,7 @@ page 50134 "CSD Posted Seminar Reg."
                     Navigate: page Navigate;
                 begin
                     Navigate.SetDoc("Posting Date", "No.");
-                    Navigate.RUN;
+                    Navigate.RUN; 
                 end;
             }
         }
