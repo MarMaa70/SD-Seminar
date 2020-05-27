@@ -1188,6 +1188,16 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page CSD Seminar Card - Action Comments - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Page 1944624769 - Action 1940178401 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ledger Entries</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CSD Seminar Card - Action Ledger Entries - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1944624769 - Action 103722640 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&amp;Registrations</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CSD Seminar Card - Action &amp;Registrations - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Page 729898515 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Seminar List</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -1197,6 +1207,16 @@
           <source>Comments</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page CSD Seminar List - Action Comments - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 729898515 - Action 1940178401 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ledger Entries</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CSD Seminar List - Action Ledger Entries - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 729898515 - Action 103722640 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&amp;Registrations</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CSD Seminar List - Action &amp;Registrations - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 3811004094 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Seminar Registration</source>
@@ -1297,6 +1317,11 @@
           <source>&amp;Charges</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page CSD Posted Seminar Reg. - Action &amp;Charges - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2994756472 - Action 1405007275 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&amp;Navigate</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CSD Posted Seminar Reg. - Action &amp;Navigate - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 1014107342 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Posted Lines</source>

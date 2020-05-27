@@ -8,10 +8,11 @@ page 50113 "CSD Seminar Registration List"
 
     Caption = 'Seminar Registration List';
     CardPageID = "CSD Seminar Registration";
-    Editable = false;
+    //Editable = false;
     PageType = List;
     SourceTable = "CSD Seminar Reg. Header";
     UsageCategory = lists;
+    ApplicationArea = all;
 
     layout
     {

@@ -66,7 +66,41 @@ page 50102 "CSD Seminar List"
                 PromotedCategory = Process;
                 RunObject = page "Comment Sheet";
                 RunPageLink = "Table Name" = const("CSD Seminar"),
-                            "No." = field("No.");
+                "No." = field("No.");
+            }
+            action("Seminar Registration")
+            {
+                RunObject = page "CSD Seminar Registration";
+                RunPageLink = "Seminar No." = field("No.");
+                RunPageMode = Create;
+                Image = NewTimesheet;
+                Promoted = true;
+                PromotedOnly = true;
+                PromotedCategory = Process;
+                ApplicationArea = All;
+            }
+            action("Ledger Entries")
+            {
+                Caption = 'Ledger Entries';
+                RunObject = page "CSD Seminar Ledger Entries";
+                RunPageLink = "Seminar No." = field("No.");
+                Promoted = true;
+                PromotedCategory = Process;
+                PromotedOnly = true;
+                ShortcutKey = "Ctrl+F7";
+                ApplicationArea = All;
+                Image = WarrantyLedger;
+            }
+            action("&Registrations")
+            {
+                Caption = '&Registrations';
+                RunObject = page "CSD Seminar Registration List";
+                RunPageLink = "Seminar No." = field("No.");
+                Image = Timesheet;
+                Promoted = true;
+                PromotedCategory = Process;
+                PromotedOnly = true;
+                ApplicationArea = All;
             }
         }
     }

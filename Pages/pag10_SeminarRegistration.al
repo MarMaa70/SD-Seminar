@@ -75,6 +75,7 @@ page 50110 "CSD Seminar Registration"
             part(SeminarRegistrationLines; "CSD Seminar Reg. Subpage")
             {
                 Caption = 'Lines';
+                ApplicationArea = All;
                 SubPageLink = "Document No." = field("No.");
             }
             group("Seminar Room")
